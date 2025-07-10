@@ -1,5 +1,5 @@
 p{
-    background-color: aqua;
+    background-color: rgb(71, 229, 229);
 }
 h3
 {
@@ -10,7 +10,14 @@ h3
 div
 {
     background-color: rgb(159, 135, 247);
-    border: 2px solid black;
+    border: 2px solid rgb(245, 245, 245);
     padding: 10px;
     margin: 20px;
+}
+.image
+{
+    width: 1000px;
+    height: 1000px;
+    border: 2px solid rgb(245, 245, 245);
+    transform: rotate(270deg);
 }
