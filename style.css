@@ -1,0 +1,16 @@
+p{
+    background-color: aqua;
+}
+h3
+{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(220, 189, 208);
+}
+div
+{
+    background-color: rgb(159, 135, 247);
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+}
