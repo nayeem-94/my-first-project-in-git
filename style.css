@@ -16,8 +16,9 @@ div
 }
 .image
 {
-    width: 1000px;
-    height: 1000px;
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
     border: 2px solid rgb(245, 245, 245);
     transform: rotate(270deg);
 }
